@@ -8,12 +8,13 @@ and use it either for learn or in your project!
 
 I am a Student, i currently studying computer science.
 
-Currently I have experience with:
+I have experience with:
 
 - C++
 - C#
 - Java
 - Unity (programming side)
+- Html and Css
 
 Currently i am working in a BIG PROJECT
 No it is not a terminal game...
