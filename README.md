@@ -6,7 +6,7 @@
 
 ABOUT ME:
 
-- I am a Student, i currently study computer science.
+- I am a Student, i currently studying computer science.
 
 Currently I have experience with:
 
