@@ -5,7 +5,7 @@ I usually program for fun, in my repos you can find various projects from simple
 
 ## ABOUT ME:
 
-I am a Student, i currently studying computer science.
+I am a Student, and I am currently studying computer science.
 
 I have experience with:
 
